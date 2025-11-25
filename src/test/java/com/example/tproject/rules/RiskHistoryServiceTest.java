@@ -14,6 +14,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 public class RiskHistoryServiceTest {
 
@@ -36,6 +37,41 @@ public class RiskHistoryServiceTest {
                 List.of("Rule1", "Rule2")
         );
     }
+    @Test
+    void testGetByUserNull() {
+        List<RiskHistoryEntry> result = service.getByUser(null);
+        assertTrue(result.isEmpty());
+    }
+    @Test
+    void testGetByRiskLevelNull() {
+        assertTrue(service.getByRiskLevel(null).isEmpty());
+    }
+    @Test
+    void testGetRecentZero() {
+        assertTrue(service.getRecent(0).isEmpty());
+    }
+    @Test
+    void testGetRecentNegative() {
+        assertTrue(service.getRecent(-5).isEmpty());
+    }
+    @Test
+    void testDeleteOlderThanZero() {
+        service.addEntry(createEntry("T1", "U1", RiskLevel.LOW, Decision.ALLOW));
+        service.deleteOlderThan(Duration.ZERO);
+        assertEquals(1, service.size());   // no deletion should occur
+    }
+
+    @Test
+    void testGetAllReturnsCopy() {
+        RiskHistoryEntry e = createEntry("T1", "U1", RiskLevel.HIGH, Decision.BLOCK);
+        service.addEntry(e);
+
+        List<RiskHistoryEntry> list = service.getAll();
+        list.clear();
+
+        assertEquals(1, service.size()); // ensures internal list isn’t mutated
+    }
+
 
     @Test
     void testAddAndGetAll() {

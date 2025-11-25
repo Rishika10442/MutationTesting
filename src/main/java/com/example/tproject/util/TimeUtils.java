@@ -40,4 +40,5 @@ public class TimeUtils {
         int hour = timestamp.getHour();
         return hour < 6 || hour > 23;        // MUTATION HOTSPOT
     }
+
 }

@@ -35,26 +35,39 @@ class FraudEvaluationServiceIntegrationTest {
 
     private List<Transaction> originalTx;
     private List<UserProfile> originalUsers;
+//
+//    @BeforeEach
+//    void resetState() {
+//
+//        // backup original JSON data only once
+//        if (originalTx == null) {
+//            originalTx = new ArrayList<>(txRepo.findAll());
+//        }
+//        if (originalUsers == null) {
+//            originalUsers = new ArrayList<>(userRepo.findAll());
+//        }
+//
+//        // reset transactions
+//        txRepo.findAll().clear();
+//        txRepo.findAll().addAll(originalTx);
+//
+//        // reset users
+//        userRepo.findAll().clear();
+//        userRepo.findAll().addAll(originalUsers);
+//    }
+@BeforeEach
+void resetState() {
 
-    @BeforeEach
-    void resetState() {
+    // Always capture fresh state — PIT requires this
+    originalTx = new ArrayList<>(txRepo.findAll());
+    originalUsers = new ArrayList<>(userRepo.findAll());
 
-        // backup original JSON data only once
-        if (originalTx == null) {
-            originalTx = new ArrayList<>(txRepo.findAll());
-        }
-        if (originalUsers == null) {
-            originalUsers = new ArrayList<>(userRepo.findAll());
-        }
+    txRepo.findAll().clear();
+    txRepo.findAll().addAll(originalTx);
 
-        // reset transactions
-        txRepo.findAll().clear();
-        txRepo.findAll().addAll(originalTx);
-
-        // reset users
-        userRepo.findAll().clear();
-        userRepo.findAll().addAll(originalUsers);
-    }
+    userRepo.findAll().clear();
+    userRepo.findAll().addAll(originalUsers);
+}
 
 
     @Test
@@ -94,21 +107,69 @@ class FraudEvaluationServiceIntegrationTest {
                 () -> service.evaluate(tx)
         );
     }
-    @Test
-    void allowsLowRiskTransaction() {
-        LocalDateTime fixed = LocalDateTime.of(2025, 1, 1, 12, 0);
+//    @Test
+//    void allowsLowRiskTransaction() {
+//        LocalDateTime fixed = LocalDateTime.of(2025, 1, 1, 12, 0);
+//
+//        Transaction tx = new Transaction(
+//                101L, 1L, 50,
+//                "Mumbai", "Shop", "Chrome",
+//                fixed
+//        );
+//
+//        FraudEvaluationResult result = service.evaluate(tx);
+//
+//        assertEquals(Decision.ALLOW, result.getDecision());
+//    }
+@Test
+void allowsLowRiskTransaction() {
 
-        Transaction tx = new Transaction(
-                101L, 1L, 50,
-                "Mumbai", "Shop", "Chrome",
-                fixed
+    // Reset userRepo to a deterministic state
+    userRepo.findAll().clear();
+    userRepo.findAll().add(
+            new UserProfile(
+                    1L,
+                    "India",
+                    List.of("Mumbai"),     // usual location matches test transaction
+                    List.of("Chrome")      // usual device matches test transaction
+            )
+    );
+
+    LocalDateTime fixed = LocalDateTime.of(2025, 1, 1, 12, 0);
+
+    Transaction tx = new Transaction(
+            101L, 1L, 50,
+            "Mumbai", "Shop", "Chrome",
+            fixed
+    );
+
+    FraudEvaluationResult result = service.evaluate(tx);
+
+    assertEquals(Decision.ALLOW, result.getDecision());
+}
+
+    @Test
+    void mediumRiskGivesAllowDecision() {
+        userRepo.findAll().clear();
+        userRepo.findAll().add(
+                new UserProfile(
+                        1L,
+                        "India",
+                        List.of("Delhi"),
+                        List.of("Chrome")
+                )
         );
 
-        FraudEvaluationResult result = service.evaluate(tx);
+        Transaction tx = new Transaction(
+                5002L, 1L, 5000,
+                "Delhi",
+                "Electronics",
+                "Chrome",
+                LocalDateTime.now()
+        );
 
-        assertEquals(Decision.ALLOW, result.getDecision());
+        FraudEvaluationResult res = service.evaluate(tx);
+        assertEquals(Decision.ALLOW, res.getDecision());
     }
-
-
 
 }

@@ -53,6 +53,99 @@ public class RiskHistoryControllerTest {
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$[0].transactionId").value("T1"));
     }
+    @Test
+    void testCleanupWithZeroDaysDoesNotThrow() throws Exception {
+        mvc.perform(delete("/risk-history/cleanup?days=0"))
+                .andExpect(status().isOk());
+    }
+    @Test
+    void testGetRecentZero() throws Exception {
+        when(service.getRecent(0)).thenReturn(List.of());
+
+        mvc.perform(get("/risk-history/recent?limit=0"))
+                .andExpect(status().isOk())
+                .andExpect(content().string("[]"));
+    }
+    @Test
+    void testGetRecentNegative() throws Exception {
+        when(service.getRecent(-5)).thenReturn(List.of());
+
+        mvc.perform(get("/risk-history/recent?limit=-5"))
+                .andExpect(status().isOk());
+    }
+    @Test
+    void testGetSinceWithFutureTimestampReturnsEmpty() throws Exception {
+        String futureTs = LocalDateTime.now().plusDays(1).toString();
+
+        when(service.getAll()).thenReturn(List.of()); // controller filters, not service
+
+        mvc.perform(get("/risk-history/since")
+                        .param("timestamp", futureTs))
+                .andExpect(status().isOk())
+                .andExpect(content().string("[]"));
+    }
+    @Test
+    void testAddEntryWithEmptyBody() throws Exception {
+        mvc.perform(post("/risk-history")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("{}"))
+                .andExpect(status().isOk());
+
+        verify(service, times(1)).addEntry(any());
+    }
+    @Test
+    void testGetSinceInvalidTimestamp() throws Exception {
+        mvc.perform(get("/risk-history/since")
+                        .param("timestamp", "not-a-valid-date"))
+                .andExpect(status().isBadRequest());
+    }
+    @Test
+    void testAddValidHistoryEntry() throws Exception {
+        String body = """
+    {
+       "transactionId": "T10",
+       "userId": "U10",
+       "decision": "ALLOW",
+       "riskLevel": "LOW",
+       "score": 10
+    }
+    """;
+
+        mvc.perform(post("/risk-history")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content(body))
+                .andExpect(status().isOk());
+
+        verify(service, times(1)).addEntry(any());
+    }
+
+    @Test
+    void testGetSinceReturnsMatchingEntries() throws Exception {
+        LocalDateTime baseTime = LocalDateTime.of(2025, 1, 1, 10, 0);
+
+        RiskHistoryEntry e = new RiskHistoryEntry(
+                "T100", "U5", Decision.REVIEW, RiskLevel.MEDIUM,
+                45.0,
+                baseTime.plusHours(2), // occurs AFTER timestamp → returned
+                List.of("RuleY")
+        );
+
+        when(service.getAll()).thenReturn(List.of(e));
+
+        mvc.perform(get("/risk-history/since")
+                        .param("timestamp", baseTime.toString()))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$[0].transactionId").value("T100"));
+    }
+
+
+    @Test
+    void testCleanupWithNegativeDays() throws Exception {
+        mvc.perform(delete("/risk-history/cleanup?days=-1"))
+                .andExpect(status().isOk());
+
+        verify(service, never()).deleteOlderThan(any());
+    }
 
     @Test
     void testClearHistory() throws Exception {

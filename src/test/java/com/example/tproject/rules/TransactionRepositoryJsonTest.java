@@ -69,7 +69,11 @@ class TransactionRepositoryJsonTest {
 //
 //        assertEquals(2, repo.findAll().size());
 //    }
-
+@Test
+void testFindAllNotEmpty() {
+    List<Transaction> list = repo.findAll();
+    assertFalse(list.isEmpty());
+}
 
     @Test
     public void savingTwoTransactionsActuallyPersistsBoth() {
