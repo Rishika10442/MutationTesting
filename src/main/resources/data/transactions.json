@@ -1,0 +1,4249 @@
+[ {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 2000.0,
+  "location" : "Mumbai",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 20, 10, 20 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 3000.0,
+  "location" : "Pune",
+  "merchant" : "StoreB",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 20, 10, 25 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 65000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 14, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 53, 10, 103577400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 19, 53, 10, 159346600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 57, 42, 226857300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 19, 57, 42, 289483700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 57, 49, 641462800 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 0, 632659300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 9, 172646600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 17, 874112500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 27, 26440600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 40, 482740900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 41, 787902700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 42, 76546200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 58, 51, 156027100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 59, 7, 74451300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 59, 19, 725437500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 59, 30, 757293000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 19, 59, 39, 22921200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 6, 17, 691118400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 6, 17, 748667600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 6, 24, 889175600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 6, 35, 394993400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 6, 43, 722177600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 6, 57, 427308600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 7, 7, 104863500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 7, 21, 714366600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 7, 24, 32073300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 7, 24, 266120500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 7, 32, 690236000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 8, 34, 713378200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 8, 34, 789696000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 8, 41, 891511000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 8, 52, 617494700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 1, 315603200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 9, 945850000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 18, 954231300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 27, 384139100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 28, 492698200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 28, 617706900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 35, 847717500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 43, 796848100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 9, 58, 328877200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 10, 13, 339121700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 10, 25, 387533200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 30, 36, 508135900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 30, 36, 569223900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 30, 43, 885793700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 30, 54, 510558600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 2, 989910000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 13, 791916000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 28, 921508700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 43, 500188300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 45, 522978100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 45, 797463700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 31, 56, 945471300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 32, 6, 55492900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 32, 18, 384336400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 32, 41, 782645500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 33, 11, 976572300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 57, 42, 298872400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 57, 42, 559070800 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 2, 787440800 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 3, 148569800 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 6, 321333200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 6, 646178900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 6, 716195400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 7, 90585000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 7, 154191800 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 7, 521005900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 27, 897071100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 58, 50, 202558300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 59, 13, 823401600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 20, 59, 36, 680340200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 0, 6, 470747100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 0, 31, 355276400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 0, 54, 941108900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 1, 21, 156371300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 1, 47, 821226900 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 1, 51, 285788000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 1, 51, 801520600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 2, 12, 917240000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 2, 37, 4372100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 3, 0, 736491300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 3, 25, 195747600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 24, 21, 3, 50, 3370600 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 48, 59, 334789700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 48, 59, 420390300 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 52, 57, 92652800 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 52, 57, 174678100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 36, 524986400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 36, 597162000 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 43, 779920700 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 43, 904664200 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 45, 132228500 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 45, 247001400 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 45, 270380100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 45, 390188100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 45, 406815100 ]
+}, {
+  "id" : 0,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 45, 525505200 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 53, 53, 47006500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 1, 658647800 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 10, 175316200 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 18, 565184000 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 28, 856479600 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 37, 474664200 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 46, 564322900 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 54, 55, 718081600 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 4, 262939700 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 5, 478691200 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 5, 571265900 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 12, 689363900 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 21, 185517200 ]
+}, {
+  "id" : 100,
+  "userId" : 9999,
+  "amount" : 500.0,
+  "location" : "London",
+  "merchant" : "Amazon",
+  "device" : "iOS",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 22, 316551300 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 29, 465838300 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 37, 775845100 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 9, 55, 46, 152546500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Delhi",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 1, 10, 803018100 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 1, 10, 823027000 ]
+}, {
+  "id" : 1,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "Delhi",
+  "merchant" : "A",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 1, 10, 912814300 ]
+}, {
+  "id" : 2,
+  "userId" : 1,
+  "amount" : 200.0,
+  "location" : "Delhi",
+  "merchant" : "B",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 1, 10, 912814300 ]
+}, {
+  "id" : 1,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "Delhi",
+  "merchant" : "A",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 5, 1, 10, 931086200 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 1, 10, 941142500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Delhi",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 4, 23, 900082000 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 4, 23, 919085700 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 4, 24, 610700 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Delhi",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 4, 52, 919256700 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 4, 52, 949269100 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 4, 53, 9697700 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 6, 8, 602098300 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 6, 8, 624615200 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 6, 8, 679616400 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 6, 31, 787881100 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 6, 31, 815423600 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 6, 31, 888422300 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 11, 45, 762309300 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 11, 46, 261676400 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 11, 46, 552580600 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 11, 59, 396013600 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 11, 59, 918833300 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 12, 0, 166897800 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 18, 9, 731630700 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 18, 10, 238264900 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 18, 10, 534449000 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 11, 25, 10, 18, 26, 150495800 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 18, 26, 815242100 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 18, 27, 116898300 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 20, 2, 509276500 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 20, 2, 801873500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 15, 362212400 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 15, 651821500 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 29, 698505600 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 29, 960089800 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 34, 920863300 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 45, 774032700 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 47, 345091900 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 52, 509286700 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 53, 479503200 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 53, 962099900 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 21, 54, 553407900 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 0, 181028900 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 1, 119982100 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 1, 623995700 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 2, 129697000 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 2, 562496800 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 3, 6187800 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 3, 473370000 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 9, 642963700 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 10, 570587800 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 16, 92553100 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 17, 236091600 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 17, 722162900 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 23, 283085200 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 24, 303524300 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 29, 374758400 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 100,
+  "userId" : 9999,
+  "amount" : 500.0,
+  "location" : "London",
+  "merchant" : "Amazon",
+  "device" : "iOS",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 30, 678194100 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 31, 152946300 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 36, 973001900 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 42, 724329300 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 43, 582906400 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 44, 92519900 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 49, 416552500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 50, 526249000 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 22, 50, 989508400 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 26, 43, 52074600 ]
+}, {
+  "id" : 9999,
+  "userId" : 1,
+  "amount" : 100.0,
+  "location" : "A",
+  "merchant" : "B",
+  "device" : "C",
+  "timestamp" : [ 2025, 11, 25, 10, 26, 43, 330214400 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 26, 48, 978858500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 3, 289512500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 12, 413204200 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 19, 481105300 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 26, 893196800 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 32, 993744600 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 39, 785585200 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 45, 935753100 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 100,
+  "userId" : 9999,
+  "amount" : 500.0,
+  "location" : "London",
+  "merchant" : "Amazon",
+  "device" : "iOS",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 47, 270355400 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 53, 359416800 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 27, 59, 390375500 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 5001,
+  "userId" : 1,
+  "amount" : 90000.0,
+  "location" : "Delhi",
+  "merchant" : "FraudStore",
+  "device" : "Android",
+  "timestamp" : [ 2025, 11, 25, 10, 28, 6, 769793800 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 101,
+  "userId" : 1,
+  "amount" : 50.0,
+  "location" : "Mumbai",
+  "merchant" : "Shop",
+  "device" : "Chrome",
+  "timestamp" : [ 2025, 1, 1, 12, 0 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+}, {
+  "id" : 3001,
+  "userId" : 1,
+  "amount" : 60000.0,
+  "location" : "Delhi",
+  "merchant" : "StoreA",
+  "device" : "Android",
+  "timestamp" : [ 2025, 1, 23, 10, 10, 10 ]
+} ]

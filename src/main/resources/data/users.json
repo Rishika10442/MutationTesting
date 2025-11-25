@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "country": "India",
+    "usualLocations": ["Mumbai", "Pune"],
+    "usualDevices": ["Android", "Chrome"]
+  },
+  {
+    "userId": 2,
+    "country": "USA",
+    "usualLocations": ["New York", "Los Angeles"],
+    "usualDevices": ["iPhone", "Safari"]
+  }
+]
