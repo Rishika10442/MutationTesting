@@ -16,13 +16,12 @@ public class AuditService {
 
     public void logDecision(Transaction tx, Decision decision, List<RuleResult> rules) {
 
-        StringBuilder log = new StringBuilder();
-        log.append("TX-ID: ").append(tx.getId())
-                .append(" | Decision: ").append(decision)
-                .append(" | Rules: ").append(rules.stream().map(RuleResult::getRuleName).toList())
-                .append(" | Timestamp: ").append(LocalDateTime.now());
+        String log = "TX-ID: " + tx.getId() +
+                " | Decision: " + decision +
+                " | Rules: " + rules.stream().map(RuleResult::getRuleName).toList() +
+                " | Timestamp: " + LocalDateTime.now();
 
-        auditLogs.add(log.toString());     // MUTATION HOTSPOT
+        auditLogs.add(log);     // MUTATION HOTSPOT
     }
 
     public List<String> getAuditLogs() {
